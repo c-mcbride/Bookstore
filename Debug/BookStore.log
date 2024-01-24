@@ -1,5 +1,0 @@
-﻿  BookStore.cpp
-  InventoryList.cpp
-  Generating Code...
-C:\Users\calif\Documents\Course Work\Structuring Programs and Data\Programs\FinalProject\BookStore\BookStore\InventoryList.cpp(207): warning C4715: 'InventoryList::findBookISBNSell': not all control paths return a value
-  BookStore.vcxproj -> C:\Users\calif\Documents\Course Work\Structuring Programs and Data\Programs\FinalProject\BookStore\Debug\BookStore.exe
