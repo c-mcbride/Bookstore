@@ -88,4 +88,12 @@ g++ -o BookStoreApp *.cpp -std=c++11
 ```
 This command compiles all '.cpp' files in the directory and creates an executable named 'BookStoreApp'. 
 
+###Running the Application
+
+After building the project, run the executable using:
+```bash
+./BookStoreApp
+```
+Follow the on-screen prompts to interact with the program
+
 
