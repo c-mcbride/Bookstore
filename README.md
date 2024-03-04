@@ -57,3 +57,35 @@ virtual void output()
 
 class Textbook
 Child class of book, however it adds private member variables course and subject
+
+## How to Run the Program
+
+To run the BookStore application, follow these steps:
+
+### Prerequisites
+
+Ensure you have the following installed:
+- A C++ compiler like `g++`.
+- `make` (optional, for building the project).
+- `git` (to clone the repository).
+- For Windows users, ensure you have WSL (Windows Subsystem for Linux) or MinGW installed and configured.
+
+### Cloning the Repository
+
+First, clone the repository to your local machine using git:
+
+```bash
+git clone https://github.com/yourusername/BookStore.git
+```
+Navigate to the cloned project's directory:
+```bash
+cd BookStore
+```
+
+Compile the project using the following command:
+```bash
+g++ -o BookStoreApp *.cpp -std=c++11
+```
+This command compiles all '.cpp' files in the directory and creates an executable named 'BookStoreApp'. 
+
+
