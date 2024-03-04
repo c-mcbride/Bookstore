@@ -1,4 +1,4 @@
-##BookStore Documentation
+## BookStore Documentation
 Bookstore is a basic program for managing a university type bookstore. It includes features to create and record information about books/textbooks. There is also functionality to maintain an inventory list of all the books in the shop. Included is an account with the ability to update the bookstore balance as books are sold.
 ## Getting Started/Adding Your First Book
 When you run the program in your editor, an account an inventory list will be created for you. It is recommended that you add one or more books before exploring other features of the program. To add a book
